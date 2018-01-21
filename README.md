@@ -18,7 +18,6 @@ renderItem={this.renderItem} // 返回(item, index)
 />
 ```
 API 说明：
- #ListEmptyComponent空白页面设置：导入页面ListEmptyComponent = {enmptyview}//空白页面 enmptyview是导入的控件外部 #ListHeaderComponent头部定义：和空白页面设置一样 #numColumns：设置列数 #horizontal：设置横向和纵向
  | api   |调用 |属性  |
  | --------   | -----:  | :----:  |
 | 效果调用  refreshableMode模式      | 默认安卓：android_base   |  默认ios：ios_base  |
