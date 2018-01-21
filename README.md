@@ -17,7 +17,8 @@ method={this.loadApi}
 renderItem={this.renderItem} // 返回(item, index)
 />
 ```
-API 说明：
+API 说明
+
  | api   |调用 |属性  |
  | --------   | -----:  | :----:  |
 | 效果调用  refreshableMode模式      | 默认安卓：android_base   |  默认ios：ios_base  |
